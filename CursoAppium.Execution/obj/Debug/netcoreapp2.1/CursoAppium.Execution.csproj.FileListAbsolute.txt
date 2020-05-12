@@ -1,0 +1,17 @@
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\CursoAppium.Execution.deps.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\CursoAppium.Execution.runtimeconfig.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\CursoAppium.Execution.runtimeconfig.dev.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\CursoAppium.Execution.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.1\CursoAppium.Execution.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.1\CursoAppium.Execution.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.1\CursoAppium.Execution.AssemblyInfoInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.1\CursoAppium.Execution.AssemblyInfo.cs
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.1\CursoAppium.Execution.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.1\CursoAppium.Execution.pdb

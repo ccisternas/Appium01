@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace CursoAppium.Core._1_Features
+namespace CursoAppium.Core._1_1Features
 {
     using TechTalk.SpecFlow;
     using System;

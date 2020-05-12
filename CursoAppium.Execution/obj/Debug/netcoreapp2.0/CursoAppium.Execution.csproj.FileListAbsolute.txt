@@ -1,0 +1,14 @@
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\nunit.engine.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\nunit.engine.api.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\CursoAppium.Execution.deps.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\CursoAppium.Execution.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\bin\Debug\netcoreapp2.0\CursoAppium.Execution.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.csprojAssemblyReference.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.AssemblyInfoInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.AssemblyInfo.cs
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Execution\obj\Debug\netcoreapp2.0\CursoAppium.Execution.pdb

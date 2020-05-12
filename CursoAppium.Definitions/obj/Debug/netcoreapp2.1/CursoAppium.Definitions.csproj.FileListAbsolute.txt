@@ -1,0 +1,17 @@
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\CursoAppium.Definitions.deps.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\CursoAppium.Definitions.runtimeconfig.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\CursoAppium.Definitions.runtimeconfig.dev.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\CursoAppium.Definitions.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.1\CursoAppium.Definitions.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.1\CursoAppium.Definitions.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.1\CursoAppium.Definitions.AssemblyInfoInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.1\CursoAppium.Definitions.AssemblyInfo.cs
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.1\CursoAppium.Definitions.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.1\CursoAppium.Definitions.pdb

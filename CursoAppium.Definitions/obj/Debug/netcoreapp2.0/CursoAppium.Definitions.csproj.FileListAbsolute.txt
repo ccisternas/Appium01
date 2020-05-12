@@ -1,0 +1,14 @@
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\nunit.engine.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\nunit.engine.api.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\CursoAppium.Definitions.deps.json
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\CursoAppium.Definitions.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\bin\Debug\netcoreapp2.0\CursoAppium.Definitions.pdb
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.csprojAssemblyReference.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.AssemblyInfoInputs.cache
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.AssemblyInfo.cs
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.dll
+C:\Users\Cloud\Desktop\Proyetos NetCore\Appium01\CursoAppium.Definitions\obj\Debug\netcoreapp2.0\CursoAppium.Definitions.pdb

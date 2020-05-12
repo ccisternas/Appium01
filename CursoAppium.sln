@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Core", "1. Core", "{83F62D69-68C8-421F-9DEE-EA10838B9122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAppium.Core", "CursoAppium.Core\CursoAppium.Core.csproj", "{69F74143-8EBE-4964-BAE8-FC4BA7AD2281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAppium.Core", "CursoAppium.Core\CursoAppium.Core.csproj", "{69F74143-8EBE-4964-BAE8-FC4BA7AD2281}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Execution", "2. Execution", "{173328B2-7859-4AA7-82D9-490AC201FF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAppium.Execution", "CursoAppium.Execution\CursoAppium.Execution.csproj", "{353FD23E-B6E0-4EA8-A082-1CAB3696830E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Definitions", "3. Definitions", "{B98FAA84-8985-41D8-8105-82C5C40BE988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAppium.Definitions", "CursoAppium.Definitions\CursoAppium.Definitions.csproj", "{0402391D-7881-44AA-B369-C1A1170DC7DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +25,22 @@ Global
 		{69F74143-8EBE-4964-BAE8-FC4BA7AD2281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F74143-8EBE-4964-BAE8-FC4BA7AD2281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F74143-8EBE-4964-BAE8-FC4BA7AD2281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353FD23E-B6E0-4EA8-A082-1CAB3696830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353FD23E-B6E0-4EA8-A082-1CAB3696830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353FD23E-B6E0-4EA8-A082-1CAB3696830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353FD23E-B6E0-4EA8-A082-1CAB3696830E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0402391D-7881-44AA-B369-C1A1170DC7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0402391D-7881-44AA-B369-C1A1170DC7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0402391D-7881-44AA-B369-C1A1170DC7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0402391D-7881-44AA-B369-C1A1170DC7DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{69F74143-8EBE-4964-BAE8-FC4BA7AD2281} = {83F62D69-68C8-421F-9DEE-EA10838B9122}
+		{353FD23E-B6E0-4EA8-A082-1CAB3696830E} = {173328B2-7859-4AA7-82D9-490AC201FF70}
+		{0402391D-7881-44AA-B369-C1A1170DC7DE} = {B98FAA84-8985-41D8-8105-82C5C40BE988}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D85D18DF-84FA-4376-916C-736D0A767738}
